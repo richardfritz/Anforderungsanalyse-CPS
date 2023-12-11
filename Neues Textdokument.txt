@@ -1,2 +1,0 @@
-Hallo, das hat Richard (Entwickler 1) geschrieben
-Das ist die Datei im Main-Branch. Bitte nur getestete Änderungen hier übernehmen!
